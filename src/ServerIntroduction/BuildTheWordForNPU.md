@@ -5,7 +5,7 @@ icon: /assets/cos/2025/03/12/67d182f1dbbf4.png
 category:
   - StandAloneServer
 
-order: 1
+order: 30
 ---
 
 
@@ -31,7 +31,12 @@ order: 1
 
 ## **二、加入方式**
 
-::: info 请联系社团
+复原工程**已不再接入群组服**，单独开服，不能从 `mc.npucraft.com` 大厅进门。要施工或打听进度，请加交流群：
+
+::: info NPU 复原工程交流群
+
+QQ：**813439644**
+
 :::
 
 进入建筑服硬性要求：

@@ -53,14 +53,6 @@ export const zhSidebar = sidebar({
             text: "常见问题",
             icon: "fluent-color:notebook-question-mark-20",
             link: "/SurvivalGuide/Support/",
-            exact: true,
-            prefix: "/SurvivalGuide/Support/",
-            collapsible: false,
-            expanded: true,
-            children: [
-                "Service",
-                "Technical",
-            ],
         },
     ],
 

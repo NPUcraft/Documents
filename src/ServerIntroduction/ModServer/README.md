@@ -6,5 +6,9 @@ author: SUPER2FH
 dir:
   collapsible: false
   link: true
-  order: 50
+  order: 20
 ---
+
+模组服使用独立地址和整合包，不走群组大厅的 `/zf` 一类命令。当前文档中的模组服：
+
+- [魔法金属](./Manametal.md)

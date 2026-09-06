@@ -6,6 +6,7 @@ category:
   - 开源插件
 tag: 
   - Lobby
+  - Survival-Resource
 ---
 
 
@@ -22,7 +23,7 @@ AdvancedPortals 是一款功能强大的 Minecraft 传送门管理插件，支�
 - ⚙️ **条件限制**（权限/冷却/玩家状态等）
 - 💬 **自定义消息** 和 **指令执行**
 
-
+登录大厅里的门由本插件触发，清单见 [登录大厅](/ServerIntroduction/GroupServer/Lobby.md)。通往生存三服的门和 `/zf`、`/gyf`、`/zyf` 是同一批后端。资源服也装了本插件，当前导出里还没有玩家可用的门文件。
 
 ## **一、命令列表📜**
 

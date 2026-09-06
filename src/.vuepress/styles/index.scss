@@ -1,5 +1,203 @@
 // place your custom styles here
 
+.mermaid-wrapper {
+  max-width: 100%;
+
+  svg {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.arch {
+  --arch-accent: var(--vp-c-accent, #096dd9);
+  --arch-card: var(--vp-c-bg);
+  --arch-muted: var(--vp-c-text-mute);
+  --arch-border: var(--vp-c-border);
+
+  max-width: min(100%, 36rem);
+  margin: 1.4rem auto 1.8rem;
+  padding: 1.05rem 1rem 1.15rem;
+  border-radius: 16px;
+  background: var(--vp-c-bg-alt);
+  text-align: start;
+  hyphens: none;
+
+  p {
+    margin: 0;
+    text-align: start;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.arch-tl {
+  margin: 0 0 0.85rem;
+  padding: 0.15rem 0 0.15rem 0.85rem;
+  border-left: 2px solid color-mix(in srgb, var(--arch-accent) 42%, transparent);
+}
+
+.arch-card {
+  position: relative;
+  margin-bottom: 0.7rem;
+  padding: 0.7rem 0.85rem;
+  border-radius: 10px;
+  background: var(--arch-card);
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 1.05rem;
+    left: -0.97rem;
+    width: 0.55rem;
+    height: 0.55rem;
+    border-radius: 50%;
+    background: var(--arch-accent);
+    box-shadow: 0 0 0 4px var(--vp-c-bg-alt);
+  }
+}
+
+.arch-kicker {
+  margin-bottom: 0.12rem;
+  color: var(--arch-accent);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+
+.arch-title {
+  font-size: 1rem;
+  font-weight: 650;
+  line-height: 1.4;
+}
+
+.arch-meta {
+  margin-top: 0.18rem;
+  color: var(--arch-muted);
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+
+.arch-host,
+.arch-cmd {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.78rem;
+}
+
+.arch-cmd {
+  color: var(--arch-accent);
+}
+
+.arch-fork {
+  display: grid;
+  grid-template-columns: 1fr 1.15fr;
+  gap: 0.7rem;
+}
+
+.arch-branch,
+.arch-scope {
+  padding: 0.75rem 0.8rem;
+  border-radius: 12px;
+  background: var(--arch-card);
+}
+
+.arch-branch-head {
+  margin: 0 0 0.5rem;
+  font-size: 0.88rem;
+  font-weight: 650;
+}
+
+.arch-branch-head span {
+  display: block;
+  margin-top: 0.12rem;
+  color: var(--arch-muted);
+  font-size: 0.75rem;
+  font-weight: 400;
+}
+
+.arch-item {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-top: 0.38rem;
+  padding: 0.42rem 0.5rem;
+  border-radius: 8px;
+  background: var(--vp-c-bg-alt);
+}
+
+.arch-item a {
+  font-weight: 600;
+}
+
+.arch-item--muted {
+  opacity: 0.7;
+}
+
+.arch-sync {
+  margin-top: 0.5rem;
+  padding: 0.45rem 0.5rem;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--arch-accent) 12%, var(--arch-card));
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+.arch-scopes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.7rem;
+}
+
+.arch-scope ul {
+  margin: 0.4rem 0 0;
+  padding-left: 1.05rem;
+}
+
+.arch-scope li + li {
+  margin-top: 0.22rem;
+}
+
+.arch-photo-frame {
+  max-width: min(100%, 28rem);
+  margin: 1.25rem auto;
+  padding: 0;
+  border: 1px solid var(--vp-c-border);
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--vp-c-bg-soft);
+}
+
+[vp-content] .arch-photo-frame img.arch-photo,
+[vp-content] img.arch-photo {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.arch-photo-frame figcaption {
+  margin: 0;
+  padding: 0.55rem 0.8rem 0.7rem;
+  color: var(--vp-c-text-mute);
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+@media (max-width: 52rem) {
+  .arch-fork,
+  .arch-scopes {
+    grid-template-columns: 1fr;
+  }
+}
+
 .markmap-wrapper {
   .markmap-svg {
     width: 100%;

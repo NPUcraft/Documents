@@ -53,6 +53,10 @@ const playerProfileSlugs = [
 ];
 
 export const pathRedirects: Record<string, string> = {
+  "/SurvivalGuide/Support/Service.html": "/SurvivalGuide/Support/",
+  "/SurvivalGuide/Support/Service/": "/SurvivalGuide/Support/",
+  "/SurvivalGuide/Support/Technical.html": "/SurvivalGuide/Support/",
+  "/SurvivalGuide/Support/Technical/": "/SurvivalGuide/Support/",
   "/MachineInstruction/": "/SurvivalGuide/MachineInstruction/",
   "/MachineInstruction.html": "/SurvivalGuide/MachineInstruction/",
   "/PlayerProfiles/": "/Chronicle/PlayerProfiles/",
