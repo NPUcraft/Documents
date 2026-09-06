@@ -1,6 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 
 import { zhNavbar } from "./navbar/index.js";
+import { pathRedirects } from "./redirects.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
@@ -137,6 +138,10 @@ export default hopeTheme({
 
     icon: {
       prefix: "fa6-solid:",
+    },
+
+    redirect: {
+      config: pathRedirects,
     },
 
     // slimsearch: true,

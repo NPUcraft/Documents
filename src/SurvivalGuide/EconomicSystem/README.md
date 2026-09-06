@@ -11,7 +11,7 @@ tag:
   - Survival-Resource
 ---
 
-生存组三世界共用同一套经济：**背包与余额跨服同步**，在主服消费、在工业服挂机奖励、在资源服支付传送费等，都使用同一种货币。底层由 [CoinsEngine](https://nightexpressdev.com/coinsengine/) 提供虚拟货币记账；商店、领地等插件与之对接，具体玩法见下方子页面。
+生存组三世界共用同一套经济：**背包与余额跨服同步**，在主服消费、在工业服挂机奖励、在资源服支付传送费等，都使用同一种货币。底层由 [CoinsEngine](https://nightexpressdev.com/coinsengine/) 提供虚拟货币记账；背包、末影箱等由 [HuskSync](/PluginIntroduction/HuskSync) 在三个生存子服间对齐。商店、领地等插件与之对接，具体玩法见下方子页面。
 
 ## 虚拟货币（西瓜币）
 

@@ -11,6 +11,8 @@ tag:
 
 ::: info 完整文档请查阅[Residence](https://www.zrips.net/residence/commands/)
 
+领地插件**只装在生存服-主服**。部署范围、选区高度、出租与网页地图等说明见 [插件介绍 · Residence](/PluginIntroduction/Residence)。下文是主服圈地的操作与费用。
+
 :::
 
 

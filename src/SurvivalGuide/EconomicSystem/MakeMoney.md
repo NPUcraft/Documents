@@ -30,7 +30,7 @@ tag:
 ## **三、任务**
 政府/管理员不定期根据需求发布任务，金额随工作量动态变化。
 
-### **撰写[机器手册](../../MachineInstruction/)文档**
+### **撰写[机器手册](../MachineInstruction/)文档**
 
 - **发布人**：SUPER2FH
 
@@ -42,7 +42,7 @@ tag:
 
 - **有效时间**：长期有效
 
-### **撰写[玩家档案](../../PlayerProfiles/)文档**
+### **撰写[玩家档案](../../Chronicle/PlayerProfiles/)文档**
 
 - **发布人**：SUPER2FH
 

@@ -8,15 +8,15 @@ index: false
 
 ## 自研插件
 
-[ServerTeleport](/PluginIntroduction/ServerTeleport)、[RandomTeleport](/PluginIntroduction/RandomTeleport)、[GlobalChat](/PluginIntroduction/GlobalChat)、[DeathChest](/PluginIntroduction/DeathChest)。
+[DeathChest](/PluginIntroduction/DeathChest)、[GlobalChat](/PluginIntroduction/GlobalChat)、[RandomTeleport](/PluginIntroduction/RandomTeleport)、[ServerTeleport](/PluginIntroduction/ServerTeleport)。
 
 
 |                                                              | 代理 | 登录大厅 | 主服 | 工业服 | 资源服 |
 | :----------------------------------------------------------: | :--: | :------: | :--: | :----: | :----: |
-| [**ServerTeleport**](/PluginIntroduction/ServerTeleport)（Velocity 切服别名） |  √   |    √     |  √   |   √    |   √    |
-| [**RandomTeleport**](/PluginIntroduction/RandomTeleport)（资源服随机传送） |  ×   |    ×     |  ×   |   ×    |   √    |
-| [**GlobalChat**](/PluginIntroduction/GlobalChat)（Velocity 全局聊天） |  √   |    √     |  √   |   √    |   √    |
 | [**DeathChest**](/PluginIntroduction/DeathChest)（死亡箱，替代 AngelChest） |  ×   |    ×     |  √   |   √    |   ×    |
+| [**GlobalChat**](/PluginIntroduction/GlobalChat)（Velocity 全局聊天） |  √   |    √     |  √   |   √    |   √    |
+| [**RandomTeleport**](/PluginIntroduction/RandomTeleport)（资源服随机传送） |  ×   |    ×     |  ×   |   ×    |   √    |
+| [**ServerTeleport**](/PluginIntroduction/ServerTeleport)（Velocity 切服别名） |  √   |    √     |  √   |   √    |   √    |
 
 
 ## 开源插件
@@ -48,9 +48,9 @@ index: false
 |      |  [**EssentialsX**](https://essentialsx.net/downloads.html)   |  /   |    √     |  ×   |   ×    |   ×    |
 |      |         [**GSit**](https://github.com/Gecolay/GSit)          |  /   |    √     |  √   |   √    |   √    |
 |      | [**Simple Voice Chat**](https://modrinth.com/plugin/simple-voice-chat) |  ×   |    ×     |  √   |   √    |   √    |
-|      | [**HuskSync**](https://www.spigotmc.org/resources/husksync-sync-inventories-ender-chests-cross-server-advancements-map-art-stats-backups.97144/) |  /   |    /     |  √   |   √    |   √    |
+|      | [**HuskSync**](/PluginIntroduction/HuskSync) |  /   |    /     |  √   |   √    |   √    |
 |      | [**Quests**](https://www.spigotmc.org/resources/quests.3711/) |  /   |    √     |  ×   |   ×    |   ×    |
-|      | [**Residence**](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-21.11480/) |  /   |    √     |  √   |   ×    |   ×    |
+|      | [**Residence**](/PluginIntroduction/Residence) |  /   |    ×     |  √   |   ×    |   ×    |
 |      |   [nightcore](https://github.com/nulli0n/nightcore-spigot)   |  /   |    ×     |  √   |   √    |   √    |
 |      | [CoinsEngine](https://www.spigotmc.org/resources/coinsengine-⭐-economy-and-custom-currencies.84121/) |  /   |    ×     |  √   |   √    |   √    |
 |      | [EconomyShopGUI](https://www.spigotmc.org/resources/economyshopgui-premium.104414/) |  /   |    ×     |  √   |   √    |   ×    |

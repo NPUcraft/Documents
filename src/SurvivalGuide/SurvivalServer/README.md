@@ -50,7 +50,7 @@ tag:
 按游玩顺序或关心主题可继续阅读：
 
 1. [主服](./Survival-Main.md) — 规划区、基地建造、轨道交通与卫星图
-2. [工业服](./Survival-Industry.md) — 机器间距、使用守则与 [《机器使用手册》](/MachineInstruction/)
+2. [工业服](./Survival-Industry.md) — 机器间距、使用守则与 [《机器使用手册》](/SurvivalGuide/MachineInstruction/)
 3. [资源服](./Survival-Resource.md) — 世界生成、战斗与 `[/rtp](/PluginIntroduction/RandomTeleport)` 等；文末可衔接 [经济系统](../EconomicSystem/) 等相关指南
 
 ```markmap
