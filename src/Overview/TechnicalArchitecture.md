@@ -5,7 +5,7 @@ author: SUPER2FH
 date: 2025-03-11
 ---
 
-玩家只连一个地址，由 **Velocity 代理**分到各个后端。生存三服共用背包和西瓜币；大厅和小游戏各自独立。模组服、复原工程**不在**这条群组链路上。
+玩家只连一个地址，由 **Velocity 代理**分到各个后端。生存三服共用背包和西瓜币；大厅和小游戏各自独立。模组服、`Reconstruction-forge`、`visitors`**不在**这条群组链路上。
 
 ## 当前群组结构
 
@@ -63,15 +63,16 @@ date: 2025-03-11
   </div>
   <div class="arch-scope">
     <div class="arch-kicker">独立开服</div>
-    <p class="arch-title">不在这条链路上</p>
+    <p class="arch-title">不走登录大厅</p>
     <ul>
       <li><a href="/ServerIntroduction/ModServer/Manametal.html">魔法金属</a></li>
-      <li><a href="/ServerIntroduction/BuildTheWordForNPU.html">复原工程</a></li>
+      <li><code>Reconstruction-forge</code></li>
+      <li><code>visitors</code></li>
     </ul>
   </div>
 </div>
 
-**不在群组里的**：[魔法金属](/ServerIntroduction/ModServer/Manametal.md) 用自己的整合包地址；[复原工程](/ServerIntroduction/BuildTheWordForNPU.md) 已拆出，加 QQ **813439644**。
+**不走登录大厅的**：[魔法金属](/ServerIntroduction/ModServer/Manametal.md) 用自己的整合包地址；`Reconstruction-forge` 与 `visitors` 见 [复原工程](/ServerIntroduction/BuildTheWordForNPU.md)，加 QQ **813439644**。
 
 ### 数据怎么走
 

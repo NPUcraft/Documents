@@ -31,7 +31,7 @@ order: 30
 
 ## **二、加入方式**
 
-复原工程**已不再接入群组服**，单独开服，不能从 `mc.npucraft.com` 大厅进门。要施工或打听进度，请加交流群：
+施工端从 `mc.npucraft.com` **登录大厅**进入。`Reconstruction-forge` 和 `visitors` **不走大厅**，要进这两端或打听进度，请加交流群：
 
 ::: info NPU 复原工程交流群
 

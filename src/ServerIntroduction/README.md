@@ -5,9 +5,9 @@ icon: /assets/cos/2025/03/21/67dd117c8bf60.jpg
 author: NPUcraft
 ---
 
-NPUcraft 对外提供三类玩法：**群组服**（一个地址进出多个子服）、**模组服**（独立整合包）、以及 **[复原工程](./BuildTheWordForNPU.md)**（校园建筑，**单独开服，不走群组大厅**）。
+NPUcraft 对外提供三类玩法：**群组服**（一个地址进出多个子服）、**模组服**（独立整合包）、以及 **[复原工程](./BuildTheWordForNPU.md)**（校园建筑；施工端走登录大厅，`Reconstruction-forge` 与 `visitors` 不走大厅）。
 
-连 `mc.npucraft.com` 后先到登录大厅，再走传送门或短命令去生存 / 小游戏。账号与启动器见 [快速入门](/QuickStart/)。复原工程请加 QQ 群 **813439644**。
+连 `mc.npucraft.com` 后先到登录大厅，再走传送门或短命令去生存 / 小游戏。账号与启动器见 [快速入门](/QuickStart/)。`Reconstruction-forge`、`visitors` 请加 QQ 群 **813439644**。
 
 ## 目录
 

@@ -59,7 +59,7 @@ prev: ../EconomicSystem/Shop
 答：大厅对应传送门，或 `/server Bingo`、`/server Shipyard`、`/server HideAndSeek`。街机后端 `GameArcade` **暂未开放**，门可能连不上。
 
 **问：复原工程、模组服在大厅有门吗？**  
-答：没有。它们不在群组链路上。复原工程加 QQ **813439644**；魔法金属用自己的整合包地址，见 [服务器介绍](/ServerIntroduction/)。
+答：复原施工端从登录大厅进入。`Reconstruction-forge`、`visitors` 和模组服**不走大厅**。前两者加 QQ **813439644**；魔法金属用自己的整合包地址，见 [服务器介绍](/ServerIntroduction/)。
 
 ## 背包、死亡与指令
 

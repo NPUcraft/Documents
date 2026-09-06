@@ -24,3 +24,20 @@ dir:
 
 
 切服短命令由 [ServerTeleport](/PluginIntroduction/ServerTeleport) 提供；大厅里的门由 [AdvancedPortals](/PluginIntroduction/AdvancedPortals) 触发。
+
+## 实例配置
+
+各实例的核心、内存与视距如下。玩家连的是代理地址，不必也不应直连某一个容器。
+
+
+| 实例 | 核心 | JVM Xmx | 容器上限 | 视距 / 模拟距离 |
+| --- | --- | ---: | ---: | ---: |
+| Bingo | Paper 1.21.8 | 4G | 6G | 10 / 10 |
+| HideAndSeek | Paper 1.21.4 | 3G | 4G | **24 / 10** |
+| Lobby | Paper 1.21.4 | 1G | 2G | 10 / 10 |
+| NPUReconstruction-Fabric | Fabric 1.21.8 | 3G | 6G | **32 / 10** |
+| Velocity | Velocity | 1G | 2G | — |
+| Shipyard | Paper 1.21.11 | 3G | 4G | 16 / 10 |
+| Survival-Industry | Paper 1.21.8 | 6G | 8G | 16 / **12** |
+| Survival-Main | Paper 1.21.8 | 6G | 8G | **24 / 12** |
+| Survival-Resource | Paper 1.21.8 | 6G | 8G | 16 / **12** |
