@@ -46,7 +46,7 @@ category:
 
 ## **三、传送与资源体系🚀**
 
-随机传送由自研插件 [RandomTeleport](/PluginIntroduction/RandomTeleport) 提供（请用它，不要用可能残留的其它 RTP 插件）：
+随机传送由自研插件 [RandomTeleport](/PluginIntroduction/RandomTeleport) 提供：
 
 | 命令 | 费用（🍉） | 说明 |
 | --- | --- | --- |

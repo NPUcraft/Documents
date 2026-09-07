@@ -54,7 +54,6 @@ index: false
 |      | [**Residence**](/PluginIntroduction/Residence) |  /   |    ×     |  √   |   √    |   ×    |
 |      |   [nightcore](https://github.com/nulli0n/nightcore-spigot)   |  /   |    ×     |  √   |   √    |   √    |
 |      | [CoinsEngine](https://www.spigotmc.org/resources/coinsengine-⭐-economy-and-custom-currencies.84121/) |  /   |    ×     |  √   |   √    |   √    |
-|      | [EconomyShopGUI](https://www.spigotmc.org/resources/economyshopgui-premium.104414/) |  /   |    ×     |  √   |   ×    |   ×    |
 |      | [QuickShop-Hikari](https://quickshop-community.github.io/QuickShop-Hikari-Documents/zh-CN/docs/category/features) |  /   |    ×     |  √   |   ×    |   ×    |
 |      | [**TimeIsMoney**](https://www.spigotmc.org/resources/time-is-money.12409/) |  /   |    ×     |  √   |   √    |   ×    |
 |      | [**(FastAsync)WorldEdit**](https://www.spigotmc.org/resources/fastasyncworldedit.13932/) |  /   |    √     |  √   |   √    |   √    |

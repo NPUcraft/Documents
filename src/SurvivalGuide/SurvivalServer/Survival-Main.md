@@ -22,7 +22,7 @@ category:
 | 内容 | 说明 |
 |------|------|
 | 日常基地、装饰、社区聚居与轨道交通 | 以主服为主 |
-| 圈地、出租、玩家商店与系统商店 | **只在主服**把整套经济玩法开齐 |
+| 圈地、出租、玩家商店 | **只在主服**把整套经济玩法开齐 |
 | 刷怪塔、全自动农场、大型生电产线 | 请使用 [工业服](./Survival-Industry.md) |
 | 大范围地形破坏、探索向刷资源 | 请使用 [资源服](./Survival-Resource.md) |
 
@@ -50,9 +50,8 @@ category:
 主服是生存组里**唯一把圈地和买卖都开齐**的世界：
 
 - **领地**：[Residence](/PluginIntroduction/Residence) 只在这里按玩家向规则运作。选区工具默认木锄，选区忽略 Y 轴（按整列高度计费）。默认最多 **8** 块领地、单块水平最大约 **1024×1024**，单价 **0.01🍉 / 方块**。步骤与费用见 [经济系统 · 领地](/SurvivalGuide/EconomicSystem/Residence)。
-- **玩家商店**：[QuickShop-Hikari](/SurvivalGuide/EconomicSystem/Shop) 对着容器定价买卖，建议建在自己领地里。
-- **系统商店**：[EconomyShopGUI](https://wiki.gpplugins.com/economyshopgui/) 提供分类回收与购买。常用命令：`/shop` 或 `/market` 打开商店，`/sellall`、`/sellgui` 出售；主服把 `/sell` 映射成一键卖光，避免和旧版 Essentials 的 `/sell` 搞混。
-- **实体货币**：出生点可把西瓜币兑成 `100` / `1,000` / `10,000` 面额的实体币，便于大额交接，见 [经济系统](/SurvivalGuide/EconomicSystem/)。
+- **玩家商店**：[QuickShop-Hikari](/SurvivalGuide/EconomicSystem/Shop) 对着容器定价买卖。建议统一开在主城[商场](https://map.npucraft.com/dynmap/?worldname=world&mapname=flat&zoom=6&x=875&y=64&z=1167#)（约 `875, 64, 1167`）。
+- **实体货币**：商场可把西瓜币兑成 `100` / `1,000` / `10,000` 面额的实体币，便于大额交接，见 [经济系统](/SurvivalGuide/EconomicSystem/)。
 
 ## **在线奖励、死亡与日常便利**
 

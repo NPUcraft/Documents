@@ -19,7 +19,7 @@ tag:
 
 ::: tip 适用范围
 
-**QuickShop 玩家店**和 **EconomyShopGUI 系统店**（`/shop`、`/sell`）都只在**生存服-主服**。工业服、资源服没有这两套商店，货物用背包带走再回主服买卖。设店位置建议在已圈 [领地](./Residence.md) 内，避免容器被他人破坏。
+**QuickShop 玩家店**只在**生存服-主服**。工业服、资源服没有玩家店，货物用背包带走再回主服买卖。建议统一开在主城[商场](https://map.npucraft.com/dynmap/?worldname=world&mapname=flat&zoom=6&x=875&y=64&z=1167#)（约 `875, 64, 1167`）。容器仍应用 [领地](./Residence.md) 保护，避免被他人破坏。
 
 :::
 

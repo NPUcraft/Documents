@@ -75,8 +75,8 @@ prev: ../EconomicSystem/Shop
 **问：死亡会掉东西吗？**  
 答：主服 / 工业服用 [DeathChest](/PluginIntroduction/DeathChest)，潜行右键取回，`/dc on`、`/dc off` 开关。资源服一般为死亡不掉落。找不到箱子时用 `/dc status`。
 
-**问：`/shop`、`/rtp` 在哪个服用？**  
-答：`/shop`、`/sell` 只在**主服**。`/rtp` 只在**资源服**。挂机小时奖只在主服、工业服，资源服没有。
+**问：玩家商店、`/rtp` 在哪个服用？**  
+答：玩家店只在**主服商场**（[地图](https://map.npucraft.com/dynmap/?worldname=world&mapname=flat&zoom=6&x=875&y=64&z=1167#)）。`/rtp` 只在**资源服**。挂机小时奖只在主服、工业服，资源服没有。
 
 **问：主服能圈多大的地？**  
 答：玩家大范围圈地按 [领地](/SurvivalGuide/EconomicSystem/Residence) 执行，最多 8 块。工业服也能圈，但大约只有 16×16、最多 3 块，不能当主基地替代。
