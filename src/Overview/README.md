@@ -25,15 +25,7 @@ date: 2026-04-12
 
 ## 服务器连接信息
 
-::: important 地址与线路
-
-公网线路 1（推荐）：`mc.npucraft.com`
-
-公网线路 2（高峰备用）：`mc2.npucraft.com`
-
-**游戏版本**：Java 版以 **[更新日志](./Changelog)** 中「服务器当前版本」为准；客户端版本与跨版本说明亦见该页。
-
-:::
+<ServerStatus></ServerStatus>
 
 若连接失败，请优先尝试切换线路、检查客户端版本与网络，并在群内说明**具体报错原文**或现象（而非仅「进不去」），便于排查。
 
@@ -70,16 +62,59 @@ date: 2026-04-12
 
 ---
 
-::: important [赞助与支持](https://afdian.com/a/SUPER2FH)
+## 赞助与支持
 
-感谢您对 NPUcraft 的支持。所有赞助行为均为自愿，赞助者**无**任何影响游戏平衡的特殊权利，由衷感谢每一份为助力服务器发展而做出的贡献。
+目前服务器持续运行成本约 300 元/月。为补贴长期运行开销，现开放 Minecraft 服务端租赁服务，可用于个人开服。无论是赞助还是租赁，均**不会获得任何影响游戏平衡的特殊权限**。
 
-:::
+<p><a class="sponsor-afdian" href="https://afdian.com/a/SUPER2FH" target="_blank" rel="noopener noreferrer">前往爱发电 ↗</a></p>
 
-<iframe
-style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto;pointer-events:none"
-src="https://de.namemc.com/server/mc.npucraft.com/embed"
-width="728"
-height="90"
-sandbox="allow-same-origin">
-</iframe>
+<p class="sponsor-note">进行赞助或租赁时，请务必备注您的游戏昵称及用途，方便核对与处理。</p>
+
+<p class="sponsor-split">服务器采用 Ryzen 9 9950X 处理器。以下套餐 <span class="sponsor-badge">仅面向群成员</span> 开放。</p>
+
+<div class="sponsor-table-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>套餐</th>
+        <th>CPU</th>
+        <th>内存</th>
+        <th>磁盘</th>
+        <th>价格</th>
+        <th>建议用途</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>基础配置</td>
+        <td>2 核</td>
+        <td>4 GB</td>
+        <td>20 GB</td>
+        <td><strong>30 元/月</strong></td>
+        <td>原版、小型插件服</td>
+      </tr>
+      <tr>
+        <td>模组推荐</td>
+        <td>4 核</td>
+        <td>8 GB</td>
+        <td>40 GB</td>
+        <td><strong>60 元/月</strong></td>
+        <td>一般模组服 / 整合包</td>
+      </tr>
+      <tr>
+        <td>大型整合包</td>
+        <td>6 核</td>
+        <td>16 GB</td>
+        <td>60 GB</td>
+        <td><strong>110 元/月</strong></td>
+        <td>大型整合包 / 高负载服</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+可选加购：逻辑核心 **+10 元 / 核 / 月**，内存 **+8 元 / GB / 月**，磁盘 **+5 元 / 10 GB / 月**。
+
+开服前，原版服请说明所需 Minecraft 版本；模组服或整合包服请提供服务端压缩包，建议同时提供客户端整合包，以便进行测试与问题排查。
+
+<p class="sponsor-note">由于白天需要上班，消息可能无法及时回复；服务器搭建及维护工作一般会安排在晚上进行。</p>
