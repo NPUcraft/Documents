@@ -1,10 +1,12 @@
 ---
 title: MMRlove / 毛毛绒
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/MMRlove-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/MMRlove-skin.png" note="皮肤来自 Minecraft 正版。"></SkinPreview>
 
 ## 简介
 MMRlove，嘤嘤怪。蒲公英PT志愿者，天津大学友好玩家。

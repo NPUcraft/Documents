@@ -1,10 +1,12 @@
 ---
 title: Sirius0v0
-icon: /assets/PlayerProfiles/sirius0v0.jpg
+icon: /assets/PlayerProfiles/Sirius0v0-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/Sirius0v0-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ![Sirius0v0【狼】](/assets/PlayerProfiles/sirius0v0.jpg)
 

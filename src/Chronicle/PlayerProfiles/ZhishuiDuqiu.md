@@ -1,10 +1,12 @@
 ---
 title: ZhishuiDuqiu / 止水渡秋
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/ZhishuiDuqiu-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/ZhishuiDuqiu-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ZhishuiDuqiu（止水渡秋）在旧 Wiki「瓜服列传」导航中有收录，当时未撰写正文。
 

@@ -1,10 +1,12 @@
 ---
 title: Hoshizorarin
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/Hoshizorarin-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/Hoshizorarin-skin.png" note="皮肤来自 Minecraft 正版。"></SkinPreview>
 
 ## 简介
 Hoshizorarin，天狼星空凛，NPUcraft二周目老玩家。与Adamfocus一起进服，基地在出生点北偏西的小山包上。

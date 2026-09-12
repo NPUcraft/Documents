@@ -1,6 +1,6 @@
 ---
 title: ADCa
-icon: https://skin.npucraft.com/avatar/1030
+icon: /assets/PlayerProfiles/ADCa-avatar.png
 author: ADCa
 date: 2025-03-23
 prev: ./
@@ -10,6 +10,8 @@ tag:
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/ADCa-skin.png" note="皮肤来自 Minecraft 正版。"></SkinPreview>
 
 **伟大的AD钙帮帮主**、**NPUcraft社团首届团支书**、**生存服OP**
 

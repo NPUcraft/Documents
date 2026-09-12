@@ -6,6 +6,8 @@ prev: ./
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
 
+<SkinPreview src="/assets/PlayerProfiles/steve.png" note="未找到对应皮肤，暂用默认 Steve。"></SkinPreview>
+
 ## 简介
 雨归大海，NPUcraft服务器第四周目OP，堪称橙妈之后的大管家。目前仍活跃在各个高校及联合服务器的相关群聊。已退游。
 

@@ -6,6 +6,8 @@ prev: ./
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
 
+<SkinPreview src="/assets/PlayerProfiles/steve.png" note="未找到对应皮肤，暂用默认 Steve。"></SkinPreview>
+
 OldChuaN_在旧 Wiki「瓜服列传」导航中有收录，当时未撰写正文。
 
 ## 基本信息

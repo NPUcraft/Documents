@@ -1,10 +1,12 @@
 ---
 title: lyyyyds
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/lyyyyds-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/lyyyyds-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ## 简介
 

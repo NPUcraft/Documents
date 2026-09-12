@@ -1,10 +1,12 @@
 ---
 title: CCapsule / 爬行药丸
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/CCapsule-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/CCapsule-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ## 简介
 瓜服普通玩家，2022年加入生存服务器（第五周目）

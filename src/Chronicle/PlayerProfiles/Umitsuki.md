@@ -1,10 +1,12 @@
 ---
 title: Umitsuki
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/Umitsuki-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/Umitsuki-skin.png" note="皮肤来自 Minecraft 正版。"></SkinPreview>
 
 **Umitsuki**
 

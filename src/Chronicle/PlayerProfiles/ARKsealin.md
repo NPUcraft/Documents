@@ -1,10 +1,12 @@
 ---
 title: ARKsealin / 汐灵
-icon: /assets/PlayerProfiles/arksealin-reimu.jpg
+icon: /assets/PlayerProfiles/ARKsealin-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/ARKsealin-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ![ARKsealin(生存号)](/assets/PlayerProfiles/arksealin-reimu.jpg)
 

@@ -1,10 +1,12 @@
 ---
 title: Kurumisama / OLOrz
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/Kurumisama-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/Kurumisama-skin.png" note="皮肤来自 Minecraft 正版。"></SkinPreview>
 
 ## 简介
 NPUcraft开服元老之一，积极推动模组服搭建，曾多次搭建模组整合服务器。

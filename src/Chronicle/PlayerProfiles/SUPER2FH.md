@@ -1,15 +1,18 @@
 ---
 title: SUPER2FH
-icon: https://skin.npucraft.com/avatar/763
+icon: /assets/PlayerProfiles/SUPER2FH-avatar.png
 author: SUPER2FH
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
 
+<SkinPreview src="/assets/PlayerProfiles/SUPER2FH.png" note="皮肤来自 NPUskin。"></SkinPreview>
+
 我只是一只猫猫头，不想上班，只想吃饭睡觉。
 
 ## 简介
+
 SUPER2FH，NPUcraft社团首任社长，第四周目OP。技术能力超强。
 
 ## 基本信息

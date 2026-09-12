@@ -1,10 +1,12 @@
 ---
 title: Dai_mao / 呆毛
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/Dai_mao-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/Dai_mao-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ## 简介
 呆毛，NPUcraft服务器第三任服主(短暂地)，第二周目、第三周目OP，骨灰级老玩家。

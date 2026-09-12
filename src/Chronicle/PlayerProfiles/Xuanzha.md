@@ -1,10 +1,12 @@
 ---
 title: Xuanzha
-icon: /assets/PlayerProfiles/xuanzha.png
+icon: /assets/PlayerProfiles/Xuanzha-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/Xuanzha-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 **xuanzha**（旋鲊，名字来源于一道宫廷御膳。）
 

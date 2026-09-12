@@ -1,10 +1,12 @@
 ---
 title: Irving_Dragon / 飞龙
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/Irving_Dragon-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/Irving_Dragon-skin.png" note="皮肤来自正版角色 Handle_Dragon。"></SkinPreview>
 
 ## 简介
 希望能融入大家但总之就是暂时非常没用的萌新社员一个，编程小白，PVP小游戏战狂，速通爱好者，目前在自学编程，建筑以及了解更多的红石知识,同时在提瓦特大陆过着摸鱼养老生活。

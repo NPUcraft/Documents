@@ -1,10 +1,12 @@
 ---
 title: poiuy / 白梓析
-icon: /assets/PlayerProfiles/poiuy-jiangnan.jpg
+icon: /assets/PlayerProfiles/poiuy-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/poiuy-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 poiuy，中文名白梓析，又名po，原子序数84，是瓜服元素巨头之一。曾参与过瓜服天空之城的建设，是铁路革命的发起者，现正在建设江南水乡。
 

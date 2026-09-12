@@ -1,10 +1,12 @@
 ---
 title: mc_bookman / bookman
-icon: /assets/PlayerProfiles/bookman-dog.jpg
+icon: /assets/PlayerProfiles/mc_bookman-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/mc_bookman-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ![bookman(左一)的猪灵蛮兵皮肤，后边是他的狗窝](/assets/PlayerProfiles/bookman-dog.jpg)
 

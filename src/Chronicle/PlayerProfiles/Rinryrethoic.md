@@ -1,10 +1,12 @@
 ---
 title: Rinryrethoic
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/Rinryrethoic-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/Rinryrethoic-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ## 简介
 Rinryrethoic，NPUcraft服务器第三周目、第四周目OP、首席建筑师、[西工大复原工程](https://wiki.npucraft.com/index.php?title=%E8%A5%BF%E5%B7%A5%E5%A4%A7%E5%A4%8D%E5%8E%9F%E5%B7%A5%E7%A8%8B)总指挥。

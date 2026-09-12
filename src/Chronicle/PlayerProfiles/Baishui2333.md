@@ -6,6 +6,8 @@ prev: ./
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
 
+<SkinPreview src="/assets/PlayerProfiles/steve.png" note="未找到对应皮肤，暂用默认 Steve。"></SkinPreview>
+
 青山横北郭，白水绕东城。——白水青山
 ## 个人资料
 * **简介**

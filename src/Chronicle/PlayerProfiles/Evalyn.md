@@ -1,10 +1,12 @@
 ---
 title: Evalyn / E姐
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/Evalyn-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/Evalyn-skin.png" note="皮肤来自 Minecraft 正版。"></SkinPreview>
 
 ## 简介
 Evalyn，蒲公英PT运维，技术力超高。NPUcraft奠基人之一，服务器前期曾积极推动NPUcraft的建立，为早期NPUcraft服务器的软硬件设备保障工作作出极大贡献。

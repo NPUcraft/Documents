@@ -1,10 +1,12 @@
 ---
 title: xiaoxiaolu / 小鹿
-icon: /assets/PlayerProfiles/xiaoxiaolu-skins.png
+icon: /assets/PlayerProfiles/xiaoxiaolu-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/xiaoxiaolu-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ![从左至右依次为gongxi、xiaoxiaolu(第三周目)、xiaoxiaolu(第四周目)](/assets/PlayerProfiles/xiaoxiaolu-skins.png)
 

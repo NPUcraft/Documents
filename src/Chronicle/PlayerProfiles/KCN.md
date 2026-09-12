@@ -1,10 +1,12 @@
 ---
 title: KCN / 烤肠妞
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/KCN-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/KCN-skin.png" note="皮肤来自 NPUskin 角色 KCN123456。"></SkinPreview>
 
 ## 简介
 一般路过美少女

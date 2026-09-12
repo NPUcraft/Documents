@@ -1,10 +1,12 @@
 ---
 title: JingKaiNing / 小宁姐姐
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/JingKaiNing-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/JingKaiNing-skin.png" note="皮肤来自 Minecraft 正版。"></SkinPreview>
 
 ## 简介
 是TeachingFeelings的女仆长，非常擅长照顾人。因为讨厌打打杀杀所以从战斗女仆队退役。

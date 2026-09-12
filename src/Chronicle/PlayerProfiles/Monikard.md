@@ -1,10 +1,12 @@
 ---
 title: Monikard / 叶子
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/Monikard-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/Monikard-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ## 简介
 Monikard，骨灰级云玩家，每日活跃在群内，但就是不进游戏。

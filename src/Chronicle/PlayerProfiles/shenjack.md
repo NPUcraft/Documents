@@ -1,10 +1,12 @@
 ---
 title: shenjack
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/shenjack-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/shenjack-skin.png" note="皮肤来自 Minecraft 正版。"></SkinPreview>
 
 ## 基本信息
 id: shenjack

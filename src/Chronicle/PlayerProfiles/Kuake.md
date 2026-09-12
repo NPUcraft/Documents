@@ -1,10 +1,12 @@
 ---
 title: Kuake / 夸克
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/Kuake-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/Kuake-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ## 简介
 Kuake，夸克，瓜农，偶尔水些推文，整些烂活，暴躁老哥，究极摸鱼人。有些pvp经验，欢迎来上路1v1男人大战。

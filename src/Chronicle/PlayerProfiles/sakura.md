@@ -1,10 +1,12 @@
 ---
 title: sakura / 蓝樱
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/sakura-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/sakura-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ## 简介
 sakura，昵称蓝樱，目前群昵称不定期变换中（找好玩的换），目前为奶白色雪子

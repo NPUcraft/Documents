@@ -1,10 +1,12 @@
 ---
 title: maple
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/maple-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/maple-skin.png" note="皮肤来自 Minecraft 正版。"></SkinPreview>
 
 ## 简介
 服务器二周目骨灰级玩家，肝度全服第一，以一己之力建造了主城西侧各类巨型建筑，包括但不限于主城世界树、东方红魔馆等。

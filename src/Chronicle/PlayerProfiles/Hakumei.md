@@ -1,10 +1,12 @@
 ---
 title: Hakumei / 白茗
-icon: /assets/PlayerProfiles/hakumei.png
+icon: /assets/PlayerProfiles/Hakumei-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/Hakumei-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 老鸽子了，咕咕咕~
 ## 简介

@@ -1,10 +1,12 @@
 ---
 title: panbaiyuan
-icon: /assets/PlayerProfiles/panbaiyuan.png
+icon: /assets/PlayerProfiles/panbaiyuan-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/panbaiyuan-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ## 简介
 ![Panbaiyuan](/assets/PlayerProfiles/panbaiyuan.png)

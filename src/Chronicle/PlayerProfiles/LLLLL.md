@@ -1,10 +1,12 @@
 ---
 title: LLLLL
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/LLLLL-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/LLLLL-skin.png" note="皮肤来自 Minecraft 正版。"></SkinPreview>
 
 ## 简介
 LLLLL，NPUcraft服务器第三周目OP。

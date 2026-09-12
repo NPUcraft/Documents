@@ -1,10 +1,12 @@
 ---
 title: westddd720 / 取经四人组
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/westddd720-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/westddd720-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ## Westddd720/取经四人组
    一个云了6年的green hand，什么都知道点，但什么都不会做，理论的矮子，实践的微生物。打算在这几年好好进修一下技能。

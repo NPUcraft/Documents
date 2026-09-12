@@ -1,10 +1,12 @@
 ---
 title: sanae / 早苗
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/sanae-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/sanae-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ## 简介
 sanae，又名早苗，服务器老玩家之一，对生存服建设作出了重要贡献，**同时是服务器内最危险的玩家**。另外，是忠实的车万人。

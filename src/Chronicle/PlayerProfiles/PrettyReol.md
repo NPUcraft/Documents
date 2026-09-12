@@ -1,10 +1,12 @@
 ---
 title: PrettyReol / 45
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/PrettyReol-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/PrettyReol-skin.png" note="皮肤来自正版角色 Satanichia。"></SkinPreview>
 
 ## 简介
 NPUcraft二周目老玩家，担任早期服务器管理员，2018年3月出资搭建新服务器。2016年10月26日以蒲公英PT志愿者团队为主要成员建立学校Steam游戏交流群，此群群成员为早期NPUcraft主要玩家群体。

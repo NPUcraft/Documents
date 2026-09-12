@@ -1,10 +1,12 @@
 ---
 title: MikuMikuMi
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/MikuMikuMi-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/MikuMikuMi-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ## 简介
 于NPUCraft第二周目后期加入的老玩家，（各种意义上的老，而且是目前仍在服务器活跃的玩家中最元老的玩家，没有之一，但是因为没有做过重大贡献而难以载入史册），主要作为生存服中的建筑玩家存在。本体有时被大家认为是男性，有时被大家认为是女性，其他玩家通常简称他为Miku。怀疑是得了脂肪肝，所以肝特别大，服务器中的肝帝之一，愿意花大量时间设计和徒手搭建大型建筑。任第五周目建筑师公会评委常委，前第五周目主城总规划。

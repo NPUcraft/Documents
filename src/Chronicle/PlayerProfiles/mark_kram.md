@@ -1,10 +1,12 @@
 ---
 title: mark_kram
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/mark_kram-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/mark_kram-skin.png" note="皮肤来自 Minecraft 正版。"></SkinPreview>
 
 ## 简介
 NPUcraft二周目骨灰级玩家，建造了标志性建筑物西工大ARJ21飞机和“呱大世界”守卫者农场。

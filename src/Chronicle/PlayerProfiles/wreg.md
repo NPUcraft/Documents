@@ -1,10 +1,12 @@
 ---
 title: wreg
-icon: /assets/PlayerProfiles/wreg.png
+icon: /assets/PlayerProfiles/wreg-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/wreg-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 wreg
 ## 简介

@@ -6,6 +6,8 @@ prev: ./
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
 
+<SkinPreview src="/assets/PlayerProfiles/steve.png" note="未找到对应皮肤，暂用默认 Steve。"></SkinPreview>
+
 “米老鼠这么萌不女装真的是可惜了”————Minecraft/米老鼠
 
 ## 简介

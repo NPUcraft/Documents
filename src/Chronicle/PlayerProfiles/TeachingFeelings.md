@@ -1,10 +1,12 @@
 ---
 title: TeachingFeelings / 婷菲
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/TeachingFeelings-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/TeachingFeelings-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ## 简介
 TeachingFeelings，NPUcraft服务器第四任服主，第三周目、第四周目OP。在五周目建造了一个烈焰人塔和两个凋零骷髅塔，深受大家的喜爱。

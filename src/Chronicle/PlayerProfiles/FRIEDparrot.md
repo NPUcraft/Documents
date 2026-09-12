@@ -1,10 +1,12 @@
 ---
 title: FRIEDparrot / 烤鹦鹉
-icon: /assets/PlayerProfiles/friedparrot-1.jpg
+icon: /assets/PlayerProfiles/FRIEDparrot-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/FRIEDparrot-skin.png" note="皮肤来自 NPUskin。"></SkinPreview>
 
 ## 简介
 ![friedPARROT](/assets/PlayerProfiles/friedparrot-1.jpg)

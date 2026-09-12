@@ -1,10 +1,12 @@
 ---
 title: YiMeng / 易梦
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/YiMeng-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/YiMeng-skin.png" note="皮肤来自 Minecraft 正版。"></SkinPreview>
 
 ## 简介
 易梦，NPUcraft社团社员。

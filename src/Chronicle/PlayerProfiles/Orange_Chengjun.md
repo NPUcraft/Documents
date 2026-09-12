@@ -1,10 +1,12 @@
 ---
 title: Orange_Chengjun / 橙君
-icon: arcticons:minecraft-steve
+icon: /assets/PlayerProfiles/Orange_Chengjun-avatar.png
 prev: ./
 ---
 
 <!-- @include: ../../.vuepress/includes/wiki-deprecated.md -->
+
+<SkinPreview src="/assets/PlayerProfiles/Orange_Chengjun-skin.png" note="皮肤来自 Minecraft 正版。"></SkinPreview>
 
 ## 简介
 橙君，NPUcraft服务器第三周目、第四周目OP，生存服大管家。
